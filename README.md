@@ -11,9 +11,9 @@ I am also excited about Open Source development and has started exploring this w
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/divyansh-singh-rathore-4934b8203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-singh-rathore-4934b8203" height="30" width="40" /></a>
-<a href="https://instagram.com/divyansh20132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyansh20132" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/eagleav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eagleav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prakhar-prajapati-b8a354210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar-prajapati-b8a354210" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iniba_macintosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iniba_macintosh" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/prakhar3044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prakhar3044" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
