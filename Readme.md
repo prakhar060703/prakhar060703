@@ -11,6 +11,10 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  <img src="assets/tech_stack.svg" width="100%" alt="Tech stack system graph animation"/>
+</div>
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -129,6 +133,10 @@ Interested in offensive security and CTF challenges. Areas I work in:
 
 **MTP Topic:** *Long-Term Memory Integration with Procedural Reasoning for Egocentric Videos*
 
+<div align="center">
+  <img src="assets/cv_pipeline.svg" width="100%" alt="CV egocentric memory pipeline animation"/>
+</div>
+
 Working on the [EgoLife dataset](https://huggingface.co/datasets/lmms-lab/EgoLife) — multi-day first-person video captured continuously — to build systems that can answer long-range episodic memory questions.
 
 **Core technical areas:**
@@ -141,15 +149,14 @@ Working on the [EgoLife dataset](https://huggingface.co/datasets/lmms-lab/EgoLif
 - **Temporal gap analysis** — split 500-question JAKE benchmark by evidence-query temporal distance (<2h, 2-6h, 6-24h, >24h) to study how retrieval degrades over time
 - **Abstention-aware evaluation** — compared hallucination-allowing vs evidence-constrained LLM settings; studied trade-off between coverage and faithfulness
 
-**Models used:** `Qwen/Qwen2.5-7B-Instruct`, `EVA-CLIP`, `InstructBLIP`, `BGE text embeddings`
+**Models used:** `Qwen/Qwen2.5-7B-Instruct`, `EVA-CLIP`, `InstructBLIP`, `BGE text embeddings`  
 **Infrastructure:** SLURM HPC cluster, NVIDIA A40 / H100 / V100 GPUs
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prakhar060703&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar060703&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=c9d1d9&langs_count=8" width="48%" />
+
 
 <br/><br/>
 
